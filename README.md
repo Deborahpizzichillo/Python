@@ -1,3 +1,3 @@
 # Python
 
-only python code
+Only python code
